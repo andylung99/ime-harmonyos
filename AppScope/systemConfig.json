@@ -1,0 +1,7 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "runtimeOS": "HarmonyOS",
+    "products": []
+  }
+}

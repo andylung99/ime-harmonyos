@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "自研输入法模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "输入法设置与引导"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "自研输入法"
+    },
+    {
+      "name": "ImeExtensionAbility_desc",
+      "value": "自研输入法扩展"
+    }
+  ]
+}

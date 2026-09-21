@@ -1,0 +1,6 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "自研输入法（HarmonyOS 4.2+ / NEXT）",
+  "dependencies": {},
+  "devDependencies": {}
+}

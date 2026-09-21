@@ -1,0 +1,10 @@
+/.hvigor/
+/build/
+/.idea/
+/oh_modules/
+/local.properties
+**/build/
+**/oh_modules/
+*.log
+.DS_Store
+/.codecc/
